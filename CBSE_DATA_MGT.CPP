@@ -1114,12 +1114,12 @@ void main()
         schoolfile.close();
     }//the while of the start
     clrscr();
-    cout<<"this programme has been programmed by :"<<endl;
+    cout<<"This programme has been programmed by :"<<endl;
     cout<<endl<<endl;
-    cout<<"SATYAM AGGARWAL and RUPINDER SINGH"<<endl;
+    cout<<"Harsh Arora"<<endl;
     cout<<"12 A"<<endl;
     cout<<"MATA JAI KAUR PUBLIC SCHOOL "<<endl;
-    cout<<"2011 - 2012 "<<endl;
+    cout<<"2016 - 2017 "<<endl;
     cout<<endl<<endl<<endl<<"press any key to terminate ";
     getch();
 }
